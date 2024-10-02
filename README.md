@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi my name is Yuki and am currently a student at UCLA pursuing my Masters in Applied Statistics and Data Science. Nice to meet you!
+
+### 📚 Projects
+All projects I have worked on can be found under my [projects]()
+
+### 🏃🏻‍♂️ Background
+
+
+### 🔗 Links
