@@ -22,6 +22,6 @@ All projects I have worked on can be found under my [projects]()
 
 ### 🏃🏻‍♂️ About me
 I am an International Student currently in my second year of the Master of Applied Statistics and Data Science program. Expected to graduate in June 2025.
-I am originally from Tokyo, Japan, but I also grew up in Singapore, India and Germany. My undergrad was at Keio University, Major in Industrial and Systems Engineering.
+I am originally from Tokyo, Japan, but I also grew up in Singapore, India and Germany. My undergrad was at Keio University, Majoring in Industrial and Systems Engineering.
 
 ### 🔗 Links
