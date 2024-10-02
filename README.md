@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! 👋
 
 <!--
 **yukiurt/yukiurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,8 @@ Hi my name is Yuki and am currently a student at UCLA pursuing my Masters in App
 ### 📚 Projects
 All projects I have worked on can be found under my [projects]()
 
-### 🏃🏻‍♂️ Background
-
+### 🏃🏻‍♂️ About me
+I am an International Student currently in my second year of the Master of Applied Statistics and Data Science program. Expected to graduate in June 2025.
+I am originally from Tokyo, Japan, but I also grew up in Singapore, India and Germany. My undergrad was at Keio University, Major in Industrial and Systems Engineering.
 
 ### 🔗 Links
